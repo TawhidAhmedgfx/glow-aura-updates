@@ -1,8 +1,13 @@
 {
-  "version": "2.9.0",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.9.0.ccx",
+  "version": "2.9.1",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.9.1.ccx",
   "notes": {
-    "en": "License keys: activate once with your name, email, WhatsApp and key. One key works on 2 PCs. Save the file, close Photoshop and double-click it to install.",
-    "bn": "লাইসেন্স কী: নাম, ইমেইল, WhatsApp আর কী দিয়ে একবার অ্যাক্টিভেট করুন। একটি কী ২টি পিসিতে চলে। ফাইল সেভ করে Photoshop বন্ধ করে ডাবল-ক্লিক করুন।"
+    "en": "Activation now asks for your name, email and WhatsApp number. Your details are remembered when you log in again.",
+    "bn": "অ্যাক্টিভেট করার সময় এখন নাম, ইমেইল আর WhatsApp নম্বর নেয়। আবার লগ ইন করলে আগের তথ্য বসানো থাকে।"
+  },
+  "live": {
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-2.9.1.json",
+    "sha256": "ec7a362229755dd40b20a669717fa5e6fcc4def29500a258cde31ecddfefc477",
+    "shell": 2
   }
 }
