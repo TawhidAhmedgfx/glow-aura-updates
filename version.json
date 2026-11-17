@@ -1,13 +1,13 @@
 {
-  "version": "2.8.0",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.8.0.ccx",
+  "version": "2.8.1",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.8.1.ccx",
   "notes": {
-    "en": "Live updates: new versions now install inside Photoshop with one click, no restart needed.",
-    "bn": "লাইভ আপডেট: এখন থেকে নতুন সংস্করণ ফটোশপের ভেতরেই এক ক্লিকে চলে আসবে, রিস্টার্ট লাগবে না।"
+    "en": "Settings › Updates now shows when Glow Aura last checked for updates.",
+    "bn": "সেটিংস › আপডেট-এ এখন দেখাবে শেষ কখন আপডেট খোঁজা হয়েছে।"
   },
   "live": {
-    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-2.8.0.json",
-    "sha256": "a807b43cde08682949e41f32362f49f5b7bd9a1518fbccef77f3b61dd08cba26",
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-2.8.1.json",
+    "sha256": "3716171aecef1c6658292a59432a33211c860c787d44c69acefb624b69185d87",
     "shell": 1
   }
 }
