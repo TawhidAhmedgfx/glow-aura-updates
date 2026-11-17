@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.7.0.ccx",
+  "version": "2.7.1",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.7.1.ccx",
   "notes": {
-    "en": "Automatic update check, Oniric-style glow, gentle Hue toning, Color right under the glow settings, Brush Glow fixes.",
-    "bn": "অটো আপডেট চেক, Oniric-এর মতো সুন্দর গ্লো, হিউ দিয়ে হালকা টোন, গ্লো সেটিংসের নিচেই রং, ব্রাশ গ্লো ঠিক করা হয়েছে।"
+    "en": "New Aurora blue theme and an update pop-up so you never miss a new version.",
+    "bn": "নতুন Aurora নীল থিম, আর নতুন আপডেট এলেই পপ-আপে জানিয়ে দেবে।"
   }
 }
