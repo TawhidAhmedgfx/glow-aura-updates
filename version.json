@@ -1,8 +1,13 @@
 {
-  "version": "2.7.1",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.7.1.ccx",
+  "version": "2.8.0",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.8.0.ccx",
   "notes": {
-    "en": "New Aurora blue theme and an update pop-up so you never miss a new version.",
-    "bn": "নতুন Aurora নীল থিম, আর নতুন আপডেট এলেই পপ-আপে জানিয়ে দেবে।"
+    "en": "Live updates: new versions now install inside Photoshop with one click, no restart needed.",
+    "bn": "লাইভ আপডেট: এখন থেকে নতুন সংস্করণ ফটোশপের ভেতরেই এক ক্লিকে চলে আসবে, রিস্টার্ট লাগবে না।"
+  },
+  "live": {
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-2.8.0.json",
+    "sha256": "a807b43cde08682949e41f32362f49f5b7bd9a1518fbccef77f3b61dd08cba26",
+    "shell": 1
   }
 }
