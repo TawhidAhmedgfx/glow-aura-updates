@@ -1,13 +1,13 @@
 {
-  "version": "3.6.0",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.6.0.ccx",
+  "version": "3.7.0",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.7.0.ccx",
   "notes": {
-    "en": "Now Aura Studio: Social Sizes and Background Remover (Auto Cut + Shadow Cut) joined Glow Aura, plus a brand-new live Glass tool. Also hardened: every tool now checks your license itself, and the plugin ships obfuscated.",
-    "bn": "এখন Aura Studio: Glow Aura-র সাথে যোগ হলো Social Sizes আর Background Remover (Auto Cut + Shadow Cut), আর একদম নতুন লাইভ Glass টুল। আরও নিরাপদ: প্রতিটি টুল এখন নিজেই লাইসেন্স চেক করে, আর প্লাগইন কোড এখন অবফাসকেট করা।"
+    "en": "Glow Aura Lite is retired. The plugin now tells you right on the home screen (and in Settings) the moment a new version is out, with one-click Update or Cancel. New: a 2-day free trial - try every tool with just your name, email and WhatsApp, no key needed; when it ends, activating is one click away. Also fixed: Glass could show a false \"no shape\" error while you moved or resized it.",
+    "bn": "Glow Aura Lite আর নেই। এখন নতুন আপডেট এলেই প্লাগইনের হোম স্ক্রিনে (আর Settings-এও) সাথে সাথে জানিয়ে দেবে, এক ক্লিকে Update বা Cancel। নতুন: ২ দিনের ফ্রি ট্রায়াল - শুধু নাম, ইমেইল আর হোয়াটসঅ্যাপ দিয়ে সব টুল ফ্রি ব্যবহার করুন, কোনো key ছাড়াই; শেষ হলে এক ক্লিকেই কিনে অ্যাক্টিভেট করা যাবে। আরও ঠিক হলো: শেপ move/resize করার সময় Glass-এ ভুলভাবে \"no shape\" error আসার সমস্যা।"
   },
   "live": {
-    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.6.0.json",
-    "sha256": "ed437eff4968291d26373feee32801066ac7c744b1ec37cd794863e96cf358a1",
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.7.0.json",
+    "sha256": "2df479697f42abb04a4076ffd22d89ae11ef6cad4de207fdc895f1a023b03365",
     "shell": 2
   }
 }
