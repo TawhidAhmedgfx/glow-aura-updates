@@ -1,13 +1,13 @@
 {
-  "version": "2.9.1",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-2.9.1.ccx",
+  "version": "3.6.0",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.6.0.ccx",
   "notes": {
-    "en": "Activation now asks for your name, email and WhatsApp number. Your details are remembered when you log in again.",
-    "bn": "অ্যাক্টিভেট করার সময় এখন নাম, ইমেইল আর WhatsApp নম্বর নেয়। আবার লগ ইন করলে আগের তথ্য বসানো থাকে।"
+    "en": "Now Aura Studio: Social Sizes and Background Remover (Auto Cut + Shadow Cut) joined Glow Aura, plus a brand-new live Glass tool. Also hardened: every tool now checks your license itself, and the plugin ships obfuscated.",
+    "bn": "এখন Aura Studio: Glow Aura-র সাথে যোগ হলো Social Sizes আর Background Remover (Auto Cut + Shadow Cut), আর একদম নতুন লাইভ Glass টুল। আরও নিরাপদ: প্রতিটি টুল এখন নিজেই লাইসেন্স চেক করে, আর প্লাগইন কোড এখন অবফাসকেট করা।"
   },
   "live": {
-    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-2.9.1.json",
-    "sha256": "ec7a362229755dd40b20a669717fa5e6fcc4def29500a258cde31ecddfefc477",
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.6.0.json",
+    "sha256": "ed437eff4968291d26373feee32801066ac7c744b1ec37cd794863e96cf358a1",
     "shell": 2
   }
 }
