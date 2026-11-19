@@ -1,13 +1,13 @@
 {
-  "version": "3.7.0",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.7.0.ccx",
+  "version": "3.8.0",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.8.0.ccx",
   "notes": {
-    "en": "Glow Aura Lite is retired. The plugin now tells you right on the home screen (and in Settings) the moment a new version is out, with one-click Update or Cancel. New: a 2-day free trial - try every tool with just your name, email and WhatsApp, no key needed; when it ends, activating is one click away. Also fixed: Glass could show a false \"no shape\" error while you moved or resized it.",
-    "bn": "Glow Aura Lite আর নেই। এখন নতুন আপডেট এলেই প্লাগইনের হোম স্ক্রিনে (আর Settings-এও) সাথে সাথে জানিয়ে দেবে, এক ক্লিকে Update বা Cancel। নতুন: ২ দিনের ফ্রি ট্রায়াল - শুধু নাম, ইমেইল আর হোয়াটসঅ্যাপ দিয়ে সব টুল ফ্রি ব্যবহার করুন, কোনো key ছাড়াই; শেষ হলে এক ক্লিকেই কিনে অ্যাক্টিভেট করা যাবে। আরও ঠিক হলো: শেপ move/resize করার সময় Glass-এ ভুলভাবে \"no shape\" error আসার সমস্যা।"
+    "en": "Fixed: a WhatsApp number that wasn't really 11 digits (or a made-up email) could sneak through on Activate and the free trial. Both are checked properly now.",
+    "bn": "ঠিক হলো: ১১ ডিজিটের আসল WhatsApp নম্বর না হলেও, বা আজে বাজে ইমেইল দিলেও, Activate আর ফ্রি ট্রায়ালে চলে যেত। এখন দুটোই ঠিকভাবে চেক হবে।"
   },
   "live": {
-    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.7.0.json",
-    "sha256": "2df479697f42abb04a4076ffd22d89ae11ef6cad4de207fdc895f1a023b03365",
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.8.0.json",
+    "sha256": "89c9d88197174d7da508574be70852babf2ea4c07712e13fbf1deb1c6261a9ef",
     "shell": 2
   }
 }
