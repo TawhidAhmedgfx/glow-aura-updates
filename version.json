@@ -1,13 +1,13 @@
 {
-  "version": "3.8.0",
-  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.8.0.ccx",
+  "version": "3.13.1",
+  "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/releases/GlowAura-3.13.1.ccx",
   "notes": {
-    "en": "Fixed: a WhatsApp number that wasn't really 11 digits (or a made-up email) could sneak through on Activate and the free trial. Both are checked properly now.",
-    "bn": "ঠিক হলো: ১১ ডিজিটের আসল WhatsApp নম্বর না হলেও, বা আজে বাজে ইমেইল দিলেও, Activate আর ফ্রি ট্রায়ালে চলে যেত। এখন দুটোই ঠিকভাবে চেক হবে।"
+    "en": "New: Shadow Maker tool (realistic cast shadow for any cut-out product). Several behind-the-scenes fixes and improvements.",
+    "bn": "নতুন: Shadow Maker টুল (কাট-আউট প্রোডাক্টে বাস্তবসম্মত শ্যাডো যুক্ত করে)। পেছনে আরও কিছু ঠিকঠাক ও উন্নতি।"
   },
   "live": {
-    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.8.0.json",
-    "sha256": "89c9d88197174d7da508574be70852babf2ea4c07712e13fbf1deb1c6261a9ef",
+    "url": "https://raw.githubusercontent.com/TawhidAhmedgfx/glow-aura-updates/main/live/bundle-3.13.1.json",
+    "sha256": "beefe6ea43fbb28ecea03567e6fa6526440f006262fa05a73d53168e3494d9c3",
     "shell": 2
   }
 }
